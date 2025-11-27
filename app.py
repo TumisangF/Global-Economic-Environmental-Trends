@@ -25,7 +25,7 @@ server = app.server
 # -----------------------------
 app.layout = html.Div(
     [
-        html.H1("Dashboard Loading... Replace with real layout"),
+        html.H1("Dashboard Updated... Render should detect this"),
         dcc.Graph(
             figure=px.scatter(x=[1, 2, 3], y=[4, 6, 1])
         )
