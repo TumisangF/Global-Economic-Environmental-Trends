@@ -57,3 +57,14 @@ The dashboard enables intuitive exploration of global patterns and inequalities,
 
 **Deployment:**
 - Render
+
+
+## Run the Project Locally
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/TumisangF/Global-Economic-Environmental-Trends.git
+cd Global-Economic-Environmental-Trends
+
+### 2. Install dependecies
+pip install -r requirements.txt
