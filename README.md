@@ -5,7 +5,6 @@ Interactive Geo-Spatial & Multivariate Analysis of CO₂ Emissions, GDP, and Pop
 ## Links
 
 - **Dashboard URL:** [https://global-economic-environmental-trends.onrender.com/](https://global-economic-environmental-trends.onrender.com/)
-- **GitHub Repository:** [https://github.com/TumisangF/Global-Economic-Environmental-Trends](https://github.com/TumisangF/Global-Economic-Environmental-Trends)
 - **Data Exploration Notebook (Colab):** [https://colab.research.google.com/drive/1rnk34dyY-QeOcgb1Elg0A-O66VewMSWG#scrollTo=5HEbj-MnQ2m4](https://colab.research.google.com/drive/1rnk34dyY-QeOcgb1Elg0A-O66VewMSWG#scrollTo=5HEbj-MnQ2m4)
 
 ## Project Overview
