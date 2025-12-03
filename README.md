@@ -61,15 +61,40 @@ The dashboard enables intuitive exploration of global patterns and inequalities,
 
 ## Run the Project Locally
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/TumisangF/Global-Economic-Environmental-Trends.git
-cd Global-Economic-Environmental-Trends
+1. Clone the repo
+   ```sh
+   git clone https://github.com/github_username/repo_name.git](https://github.com/TumisangF/Global-Economic-Environmental-Trends.git
+   cd Global-Economic-Environmental-Trends
+   ```
+2. Install dependencies
+   ```sh
+   pip install -r requirements.txt
+   ```
+3. Run the Application
+   ```
+   python app.py
+   ```
+4. Open in Browser
+   ```
+   Navigate to: http://127.0.0.1:8050/
+   ```
 
-### 2. Install Dependencies
-```bash
-pip install -r requirements.txt
+### Exploratory Data Analysis (EDA)
 
-### 3. Open in Browser
-```bash
-http://127.0.0.1:8050/
+A full exploratory analysis—including:
+
+preprocessing,
+
+visual inspection,
+
+outlier analysis,
+
+correlation analysis—
+
+is available in the Colab notebook:
+
+EDA Notebook:
+```
+https://colab.research.google.com/drive/1rnk34dyY-QeOcgb1Elg0A-O66VewMSWG#scrollTo=5HEbj-MnQ2m4
+```
+
