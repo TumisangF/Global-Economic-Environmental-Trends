@@ -57,5 +57,3 @@ The dashboard enables intuitive exploration of global patterns and inequalities,
 
 **Deployment:**
 - Render
-
-## 📁 Project Structure
