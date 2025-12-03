@@ -66,5 +66,10 @@ The dashboard enables intuitive exploration of global patterns and inequalities,
 git clone https://github.com/TumisangF/Global-Economic-Environmental-Trends.git
 cd Global-Economic-Environmental-Trends
 
-### 2. Install dependecies
+### 2. Install Dependencies
+```bash
 pip install -r requirements.txt
+
+### 3. Open in Browser
+```bash
+http://127.0.0.1:8050/
